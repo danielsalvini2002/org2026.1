@@ -1,0 +1,5 @@
+https://www.ime.usp.br/~pf/algoritmos/aulas/lista.html
+
+https://www.facom.ufu.br/~abdala/DAS5102/TEO_ListasEncadeadas.pdf
+
+https://pt.stackoverflow.com/questions/14351/como-fazer-uma-lista-encadeada-em-assembly
