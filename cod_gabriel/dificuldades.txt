@@ -1,1 +1,3 @@
 -> entender o funcionamento do heap vs stack
+
+-> entender quando o código continua executando e quando ele faz jump (quando não tem jal ele simplesmente segue)
